@@ -1,0 +1,4 @@
+jio.com
+api.jio.com
+rfhospital.com
+jiomart.com
